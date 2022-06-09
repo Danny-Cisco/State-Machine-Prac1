@@ -540,6 +540,10 @@ MonoBehaviour:
   input_1: 0
   win: 0
   lose: 0
+  test: 0
+  service: 0
+  back: 0
+  enter: 0
 --- !u!1 &1448233818
 GameObject:
   m_ObjectHideFlags: 0
@@ -667,7 +671,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: null
+  m_text: poop version
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
